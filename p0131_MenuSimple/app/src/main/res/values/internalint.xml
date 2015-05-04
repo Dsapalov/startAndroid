@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="menu_add_id">0</integer>
+    <integer name="menu_del_id">1</integer>
+    <integer name="menu_exit_id">2</integer>
+
+</resources>
