@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="menu_color_red">11</integer>
+    <integer name="menu_color_green">12</integer>
+    <integer name="menu_color_black">13</integer>
+
+    <integer name="menu_size_22">22</integer>
+    <integer name="menu_size_30">30</integer>
+    <integer name="menu_size_10">10</integer>
+
+</resources>
